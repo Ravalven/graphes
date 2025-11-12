@@ -1,0 +1,45 @@
+{
+  "total_count": 2,
+  "artifacts": [
+    {
+      "id": 4543743801,
+      "node_id": "MDg6QXJ0aWZhY3Q0NTQzNzQzODAx",
+      "name": "Images svg",
+      "size_in_bytes": 5977,
+      "url": "https://api.github.com/repos/Ravalven/graphes/actions/artifacts/4543743801",
+      "archive_download_url": "https://api.github.com/repos/Ravalven/graphes/actions/artifacts/4543743801/zip",
+      "expired": false,
+      "digest": "sha256:3d717906342ca9beafd22ed5eef486afd7d7d2a67459735729b4a4251143b9dd",
+      "created_at": "2025-11-12T13:56:38Z",
+      "updated_at": "2025-11-12T13:56:38Z",
+      "expires_at": "2026-02-10T13:56:18Z",
+      "workflow_run": {
+        "id": 19299868561,
+        "repository_id": 1090144136,
+        "head_repository_id": 1090144136,
+        "head_branch": "main",
+        "head_sha": "a6e312c7ff0f646f53fb201f18eb18591d5b3353"
+      }
+    },
+    {
+      "id": 4472591337,
+      "node_id": "MDg6QXJ0aWZhY3Q0NDcyNTkxMzM3",
+      "name": "Image g1",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/Ravalven/graphes/actions/artifacts/4472591337",
+      "archive_download_url": "https://api.github.com/repos/Ravalven/graphes/actions/artifacts/4472591337/zip",
+      "expired": false,
+      "digest": "sha256:daa8515370e324c561c6bd452e1f794977884e9d699b9146c375bd8b06cc23ec",
+      "created_at": "2025-11-05T10:17:36Z",
+      "updated_at": "2025-11-05T10:17:36Z",
+      "expires_at": "2026-02-03T10:16:05Z",
+      "workflow_run": {
+        "id": 19098624745,
+        "repository_id": 1090144136,
+        "head_repository_id": 1090144136,
+        "head_branch": "main",
+        "head_sha": "1697946efbb83acb6da8f53098ff211048230b7f"
+      }
+    }
+  ]
+}
